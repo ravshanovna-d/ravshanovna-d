@@ -16,7 +16,7 @@
 - 🧠 I train **ML / DL models**: CNNs, recommender systems, reinforcement learning
 - 🧪 I automate **end-to-end tests** with **Playwright + Pytest + Allure**
 - 🌱 Currently working on an **AI hairstyle recommender** for a barbershop platform
-- 🇺🇿 Based in Uzbekistan
+- 📍 Based in Uzbekistan
 
 ### 🛠 Tech Stack
 
@@ -52,10 +52,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ravshanovna-d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravshanovna-d&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravshanovna-d&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=ravshanovna-d&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <br/><br/>
+  <img src="https://ghchart.rshah.org/6C63FF/ravshanovna-d" alt="Contribution chart" width="95%" />
 </div>
 
 ---
@@ -64,7 +63,7 @@
 
 ### 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-ravshanovna-d-181717?style=for-the-badge&logo=github)](https://github.com/ravshanovna-d)
+[![GitHub](https://img.shields.io/badge/GitHub-ravshanovna--d-181717?style=for-the-badge&logo=github)](https://github.com/ravshanovna-d)
 <!-- Add your links here, for example:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
