@@ -26,7 +26,7 @@ class Ravshanovna:
         self.location   = "Uzbekistan 🇺🇿"
         self.role       = ["Python Developer", "ML Engineer", "QA Automation"]
         self.backend    = ["Django", "DRF", "FastAPI", "JWT", "Docker"]
-        self.ml         = ["TensorFlow", "Keras", "scikit-learn", "XGBoost"]
+        self.ml         = ["PyTorch", "TensorFlow", "Keras", "scikit-learn", "XGBoost"]
         self.testing    = ["Playwright", "Pytest", "Allure"]
         self.focus      = "AI Hairstyle Recommender 💇"
 
@@ -38,6 +38,33 @@ class Ravshanovna:
 - 🧠 Interested in **Computer Vision**, **Recommender Systems** and **Reinforcement Learning**
 - ⚙️ I like building things end-to-end: **API → model → tests**
 
+
+---
+
+## 🧠 ML Portfolio — live demos
+
+<div align="center">
+
+[![Open portfolio](https://img.shields.io/badge/Open%20my%20ML%20portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ravshanovna-portfolio.vercel.app)
+
+*12 end-to-end projects. Every model runs right in your browser — no install needed.*
+
+</div>
+
+| Project | Try it | Result |
+|---|---|---|
+| ✍️ Handwritten Digit Recognizer — draw a digit, a CNN reads it | [Demo](https://ravshanovna-digits.vercel.app) · [Code](https://github.com/ravshanovna-d/handwritten-digit-recognizer) | 99.4% accuracy |
+| 😀 Face Emotion Detector — YOLO + emotion model, live webcam | [Demo](https://ravshanovna-face-emotion.vercel.app) · [Code](https://github.com/ravshanovna-d/face-emotion-detector) | 8 emotions |
+| 🔊 Environmental Sound Classifier — ResNet18 transfer learning | [Demo](https://ravshanovna-sound-classifier.vercel.app) · [Code](https://github.com/ravshanovna-d/environmental-sound-classifier) | 91.3% accuracy |
+| 👕 Fashion-MNIST Classifier — optimizer & LR-schedule study | [Demo](https://ravshanovna-fashion-mnist.vercel.app) · [Code](https://github.com/ravshanovna-d/fashion-mnist-classifier) | 91.6% accuracy |
+| 📉 Customer Churn Predictor | [Demo](https://ravshanovna-churn.vercel.app) · [Code](https://github.com/ravshanovna-d/telco-churn-predictor) | ROC-AUC 0.842 |
+| 💰 Income Prediction — XGBoost, LightGBM, CatBoost + SHAP | [Demo](https://ravshanovna-income.vercel.app) · [Code](https://github.com/ravshanovna-d/income-prediction) | ROC-AUC 0.931 |
+| 🏦 Credit Risk Scoring — cost-sensitive threshold | [Demo](https://ravshanovna-credit-risk.vercel.app) · [Code](https://github.com/ravshanovna-d/credit-risk-scoring) | Cost −42% |
+| 🏠 House Price Estimator | [Demo](https://ravshanovna-house-prices.vercel.app) · [Code](https://github.com/ravshanovna-d/house-price-estimator) | R² 0.90 |
+| ❤️ Heart Disease Risk Predictor | [Demo](https://ravshanovna-heart-disease.vercel.app) · [Code](https://github.com/ravshanovna-d/heart-disease-predictor) | ROC-AUC 0.936 |
+| 🔬 Breast Cancer Ensemble — stacking & blending | [Demo](https://ravshanovna-breast-cancer.vercel.app) · [Code](https://github.com/ravshanovna-d/breast-cancer-ensemble) | ROC-AUC 0.996 |
+| 🚢 Titanic Survival Predictor | [Demo](https://ravshanovna-titanic.vercel.app) · [Code](https://github.com/ravshanovna-d/titanic-survival-predictor) | ROC-AUC 0.847 |
+| 🎬 Netflix Content Analysis — dashboard + recommender | [Demo](https://ravshanovna-netflix.vercel.app) · [Code](https://github.com/ravshanovna-d/netflix-content-analysis) | 8,807 titles |
 
 ---
 
@@ -59,6 +86,7 @@ class Ravshanovna:
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -140,11 +168,12 @@ Maze generation with DFS, graph shortest path with NetworkX and a **Q-learning**
 </td>
 <td width="50%" valign="top">
 
-### 💇 [AI Hairstyle Recommender](https://github.com/ravshanovna-d/AI_Hairstyle_recommender)
-Face-shape detection and hairstyle suggestions for the BarberShop app. *In progress* 🚧
+### 🧠 [ML Portfolio](https://ravshanovna-portfolio.vercel.app)
+12 machine learning projects with live in-browser demos: vision, audio, classic ML and data analysis.
 
-![CV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![AI](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
 </td>
 </tr>
