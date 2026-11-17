@@ -1,10 +1,10 @@
 <!-- ====== HEADER ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E7CFF,100:00D4FF&height=200&section=header&text=Ravshanovna&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Python%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20QA%20Automation&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E7CFF,100:00D4FF&height=200&section=header&text=Ravshanovna&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Python%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
 <a href="https://github.com/ravshanovna-d">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8E7CFF&center=true&vCenter=true&width=620&lines=Building+REST+APIs+with+Django+%26+FastAPI;Training+CNNs+and+recommender+systems;Automating+E2E+tests+with+Playwright;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8E7CFF&center=true&vCenter=true&width=620&lines=Machine+Learning+Engineer;Computer+Vision+%E2%80%A2+Tabular+ML+%E2%80%A2+Audio;From+data+to+deployed+models;Python+%E2%80%A2+PyTorch+%E2%80%A2+scikit-learn+%E2%80%A2+FastAPI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,26 +18,24 @@
 
 ## 💫 About Me
 
-
 ```python
 class Ravshanovna:
     def __init__(self):
         self.username   = "ravshanovna-d"
         self.location   = "Uzbekistan 🇺🇿"
-        self.role       = ["Python Developer", "ML Engineer", "QA Automation"]
-        self.backend    = ["Django", "DRF", "FastAPI", "JWT", "Docker"]
-        self.ml         = ["PyTorch", "TensorFlow", "Keras", "scikit-learn", "XGBoost"]
+        self.role       = ["Machine Learning Engineer", "Python Developer", "QA Automation"]
+        self.ml         = ["PyTorch", "TensorFlow", "scikit-learn", "XGBoost", "LightGBM", "ONNX"]
+        self.backend    = ["Django", "DRF", "FastAPI", "PostgreSQL", "Docker"]
         self.testing    = ["Playwright", "Pytest", "Allure"]
-        self.focus      = "AI Hairstyle Recommender 💇"
-
-    def motto(self):
-        return "Clean code. Real results. Keep learning."
+        self.focus      = ["Computer Vision", "Tabular ML", "ML Deployment"]
 ```
 
-- 🔭 Working on an **AI hairstyle recommender** for a barbershop platform
-- 🧠 Interested in **Computer Vision**, **Recommender Systems** and **Reinforcement Learning**
-- ⚙️ I like building things end-to-end: **API → model → tests**
+I build machine learning solutions end to end — from data analysis and feature engineering to validated models running in production.
 
+- 🧠 **Machine learning:** gradient boosting and ensembles, model explainability (SHAP), computer vision with CNNs, YOLO and transfer learning, audio classification
+- 📐 **Sound evaluation:** leak-free pipelines, cross-validation, threshold tuning for business costs, honest test-set reporting
+- 🚀 **Deployment:** ONNX models served in the browser, REST APIs with Django and FastAPI, Docker
+- ✅ **Quality:** automated end-to-end and API testing with Playwright and Pytest
 
 ---
 
